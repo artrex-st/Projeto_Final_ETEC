@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/11 12:32:29.000.668,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 12:37:00.000.961,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmPrincipal.pas</Transaction>
+    <Transaction>2019/08/11 12:37:00.000.961,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2019/08/11 12:37:15.000.196,C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Projeto_Final.dproj</Transaction>
+    <Transaction>2019/08/11 12:40:20.000.581,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 12:40:56.000.901,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmConexao.dfm</Transaction>
+    <Transaction>2019/08/11 12:40:56.000.901,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmConexao.pas</Transaction>
+    <Transaction>2019/08/11 13:03:04.000.686,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 13:29:25.000.971,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroPrincipal.dfm</Transaction>
+    <Transaction>2019/08/11 13:29:25.000.971,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroPrincipal.pas</Transaction>
+    <Transaction>2019/08/11 13:29:59.000.234,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroPrincipal.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroBase.dfm</Transaction>
+    <Transaction>2019/08/11 13:29:59.000.234,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroPrincipal.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroBase.pas</Transaction>
+    <Transaction>2019/08/11 14:07:26.000.366,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 14:08:37.000.356,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroClientes.dfm</Transaction>
+    <Transaction>2019/08/11 14:08:37.000.356,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroClientes.pas</Transaction>
+    <Transaction>2019/08/11 14:50:50.000.300,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 14:58:44.000.374,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroCidades.dfm</Transaction>
+    <Transaction>2019/08/11 14:58:44.000.374,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmCadastroCidades.pas</Transaction>
+    <Transaction>2019/08/11 15:58:02.000.444,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 15:58:44.000.627,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmPesquisaBase.dfm</Transaction>
+    <Transaction>2019/08/11 15:58:44.000.627,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmPesquisaBase.pas</Transaction>
+    <Transaction>2019/08/11 16:45:33.000.098,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 16:46:00.000.188,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 16:46:12.000.662,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 16:46:29.000.382,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 16:47:59.000.114,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmPesquisaClientes.pas</Transaction>
+    <Transaction>2019/08/11 16:47:59.000.114,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmPesquisaClientes.dfm</Transaction>
+    <Transaction>2019/08/11 18:09:55.000.108,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorio.pas</Transaction>
+    <Transaction>2019/08/11 20:22:45.000.332,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioClientes.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorio.dfm</Transaction>
+    <Transaction>2019/08/11 20:22:45.000.332,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioClientes.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorio.pas</Transaction>
+    <Transaction>2019/08/11 21:33:57.000.506,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 21:34:41.000.330,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 21:51:29.000.718,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioBase.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.dfm</Transaction>
+    <Transaction>2019/08/11 21:51:29.000.718,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioBase.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 21:56:34.000.448,=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/11 21:58:02.000.304,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioClientesCidades.dfm=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioBase.dfm</Transaction>
+    <Transaction>2019/08/11 21:58:02.000.304,C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioClientesCidades.pas=C:\Users\admin\OneDrive\Delphi - Projeto ETEC\Projeto_final\UfrmRelatorioBase.pas</Transaction>
+    <Transaction>2019/08/13 18:52:38.000.877,=C:\Users\Arthur\OneDrive\Delphi- NoteBook\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/13 18:52:58.000.919,=C:\Users\Arthur\OneDrive\Delphi- NoteBook\Projeto_final\Unit1.pas</Transaction>
+    <Transaction>2019/08/13 18:54:22.000.120,C:\Users\Arthur\OneDrive\Delphi- NoteBook\Projeto_final\Unit1.dfm=C:\Users\Arthur\OneDrive\Delphi- NoteBook\Projeto_final\UfrmPesquisaCidades.dfm</Transaction>
+    <Transaction>2019/08/13 18:54:22.000.120,C:\Users\Arthur\OneDrive\Delphi- NoteBook\Projeto_final\Unit1.pas=C:\Users\Arthur\OneDrive\Delphi- NoteBook\Projeto_final\UfrmPesquisaCidades.pas</Transaction>
+  </Transactions>
+</BorlandProject>

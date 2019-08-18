@@ -1,0 +1,144 @@
+﻿object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 299
+  ClientWidth = 635
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnTopo: TPanel
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 33
+    Align = alTop
+    Caption = 'TOPO'
+    ShowCaption = False
+    TabOrder = 0
+    object btnUltimo: TButton
+      Left = 496
+      Top = 1
+      Width = 40
+      Height = 31
+      Align = alLeft
+      Caption = 'ultimo'
+      TabOrder = 8
+      ExplicitLeft = 497
+    end
+    object btnAvançar: TButton
+      Left = 456
+      Top = 1
+      Width = 40
+      Height = 31
+      Align = alLeft
+      Caption = 'avan'#231'ar'
+      TabOrder = 7
+      ExplicitLeft = 457
+    end
+    object btnVoltar: TButton
+      Left = 416
+      Top = 1
+      Width = 40
+      Height = 31
+      Align = alLeft
+      Caption = 'voltar'
+      TabOrder = 6
+      ExplicitLeft = 410
+    end
+    object btnPrimeiro: TButton
+      Left = 376
+      Top = 1
+      Width = 40
+      Height = 31
+      Align = alLeft
+      Caption = 'primeiro'
+      TabOrder = 5
+    end
+    object Button5: TButton
+      Left = 559
+      Top = 1
+      Width = 75
+      Height = 31
+      Align = alRight
+      Caption = 'pesquisar'
+      TabOrder = 9
+      ExplicitLeft = 560
+    end
+    object btnSalvar: TButton
+      Left = 226
+      Top = 1
+      Width = 75
+      Height = 31
+      Align = alLeft
+      Caption = 'salvar'
+      TabOrder = 3
+      ExplicitLeft = 0
+      ExplicitTop = 2
+    end
+    object btnExcluir: TButton
+      Left = 151
+      Top = 1
+      Width = 75
+      Height = 31
+      Align = alLeft
+      Caption = 'Excluir'
+      TabOrder = 2
+      ExplicitLeft = 0
+      ExplicitTop = 2
+    end
+    object btnEditar: TButton
+      Left = 76
+      Top = 1
+      Width = 75
+      Height = 31
+      Align = alLeft
+      Caption = 'Editar'
+      TabOrder = 1
+      ExplicitLeft = 0
+      ExplicitTop = 2
+    end
+    object btnAdicionar: TButton
+      Left = 1
+      Top = 1
+      Width = 75
+      Height = 31
+      Align = alLeft
+      Caption = 'Adicionar'
+      TabOrder = 0
+      ExplicitLeft = 0
+      ExplicitTop = 2
+    end
+    object btnCancelar: TButton
+      Left = 301
+      Top = 1
+      Width = 75
+      Height = 31
+      Align = alLeft
+      Caption = 'cancelar'
+      TabOrder = 4
+      ExplicitLeft = 0
+      ExplicitTop = 2
+    end
+  end
+  object gbCadastro: TGroupBox
+    Left = 0
+    Top = 33
+    Width = 635
+    Height = 266
+    Align = alClient
+    Caption = 'Cadastro:'
+    Enabled = False
+    TabOrder = 1
+    ExplicitLeft = 88
+    ExplicitTop = 120
+    ExplicitWidth = 185
+    ExplicitHeight = 105
+  end
+end
